@@ -1,0 +1,5 @@
+{
+  "operationName": null,
+  "variables": {},
+  "query": "{\n  jobs(input: {type: \"##\"}) {\n    title\n    company {\n      name\n      logoUrl\n    }\n    description\n  }\n}\n"
+}
